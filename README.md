@@ -23,5 +23,5 @@ This project uses Python as the main language and the libraries incorporated are
 # Support and contact details
 Feel free to make any contributions to the code and in case of any issues or questions, ideas or concerns please reach out to me via this email: audreyimali18@gmail.com
 
-License
+# License
 Copyright (c) {2021} {Courtesy of Moringa School Data Science Class}
