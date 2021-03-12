@@ -1,5 +1,6 @@
 # Financial-Inclusion-State-in-East-Africa
 Finscope surveys data analysis ranging from 2016 to 2018.
+
 The research problem is to figure out how we can predict which individuals are most likely to have or use a bank account in Kenya, Uganda, Rwanda and Tanzania. 
 
 By AUDREY IMALI
